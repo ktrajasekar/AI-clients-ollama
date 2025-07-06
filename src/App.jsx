@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 
-const genAI = new GoogleGenerativeAI('AIzaSyA0kdt28Vn4otLEO7X6AnXdhDfYfgpVt9M');
+const genAI = new GoogleGenerativeAI('');
 
 
 function App() {
